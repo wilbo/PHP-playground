@@ -1,10 +1,11 @@
 .header {
 
 }
-.logo {
+.title {
+  text-align: center;
   margin: -58px 0 0 -100px;
   @include position(absolute, 50% 0 0 50%);
-  img {
-
+  h1, h2 {
+    margin: 0;
   }
 }

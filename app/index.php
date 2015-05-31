@@ -23,8 +23,9 @@
     </header>
 
     <main class="main" role="main">
-      <div class="logo">
-        <h1>Just Play!</h1>
+      <div class="title">
+        <?= "<h1>PHP Playground</h1>" ?>
+        <?= "<h2>Just Play!</h2>" ?>
       </div>
     </main>
 
