@@ -25,7 +25,7 @@
     <main class="main" role="main">
       <div class="title">
         <?= "<h1>PHP Playground</h1>" ?>
-        <?= "<h2>Just Play!</h2>" ?>
+        <h2> <?php echo 'Current PHP version: ' . phpversion(); ?> </h2>
       </div>
     </main>
 
