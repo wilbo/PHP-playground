@@ -1,6 +1,6 @@
 # PHP Playground
 
-inspired by [FireShell](http://github.com/HosseinKarami/fastshell), tuned for php fun.
+inspired by [FastShell](http://github.com/HosseinKarami/fastshell), tuned for php fun.
 
 ## License
 
